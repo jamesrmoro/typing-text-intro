@@ -4,4 +4,4 @@ Invés de usar o software After Effects ou algum editor do tipo, resolvi fazer a
 
 ## Resultado final
 
-[![Entrada de vídeo para série Meu dia a dia como dev](https://jamesrmoro.github.io/typing-text-intro/images/tela.png)](https://jamesrmoro.github.io/typing-text-intro "Entrada de vídeo para série Meu dia a dia como dev")
+[![Entrada de vídeo para série Meu dia a dia como dev](https://jamesrmoro.github.io/typing-text-intro/images/tela-commits.png)](https://jamesrmoro.github.io/typing-text-intro "Entrada de vídeo para série Meu dia a dia como dev")
